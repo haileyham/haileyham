@@ -9,9 +9,9 @@
 </div>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="500px" height="200px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="500px" height="200px"/>
 
-<div align="left">
+<div align="right">
 
 ### 📚 Teck Stack 📚
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
