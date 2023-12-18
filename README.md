@@ -10,7 +10,7 @@
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="500px" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="450px" height="200px" />
 
 <div align="center"  >
 
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=haileyham&hide=stars&count_private=true&theme=tokyonight&show_icons=true"   width="500px" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haileyham&hide=stars&count_private=true&theme=tokyonight&show_icons=true"   width="450px" height="200px" />
 <div align="center">
 
 ### 🛠 Cowork Tools 🛠
