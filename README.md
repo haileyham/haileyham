@@ -10,10 +10,10 @@
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%;" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="500px" height="200px" />
 
-<div align="center" width="40%" >
-  
+<div align="center"  >
+
 ### 📚 Teck Stack 📚
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -35,8 +35,8 @@
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=haileyham&hide=stars&count_private=true&theme=tokyonight&show_icons=true"  width="40%;"  height="200px" />
-<div align="center" width="40%" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haileyham&hide=stars&count_private=true&theme=tokyonight&show_icons=true"   width="500px" height="200px" />
+<div align="center">
 
 ### 🛠 Cowork Tools 🛠
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
