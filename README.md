@@ -10,7 +10,9 @@
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyham&count_private=true&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="40%;" height="200px" />
+
+<div align="center" width="40%" >
   
 ### 📚 Teck Stack 📚
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -26,20 +28,22 @@
   <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=black">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=black">
   <img src="https://img.shields.io/badge/styledcomponents-ff5588?style=for-the-badge&logo=styledcomponents&logoColor=black">
+</div>
 
 <br>
 <br>
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=haileyham&hide=stars&count_private=true&theme=tokyonight&show_icons=true"  width="40%;" />
-  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haileyham&hide=stars&count_private=true&theme=tokyonight&show_icons=true"  width="40%;"  height="200px" />
+<div align="center" width="40%" >
+
 ### 🛠 Cowork Tools 🛠
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-f76c62?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
+</div>
 <br>
 <br>
 <br>
