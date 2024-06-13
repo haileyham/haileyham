@@ -21,7 +21,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/styledcomponents-ff5588?style=for-the-badge&logo=styledcomponents&logoColor=black">
   <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=black">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/tanstack-query-764ABC?style=for-the-badge&logo=Tanstack-Query&logoColor=black">
+
   
 ### 🛠 Cowork Tools 🛠
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
